@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="APPOINTMENTSCHEDULER.AuthManager">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAgAYIAAABAAAAABAQAAAAAAA=</HashCode>
+      <FileName>AuthManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APPOINTMENTSCHEDULER.FileHandler">
+    <Position X="6" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAQAAAAIAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APPOINTMENTSCHEDULER.InputFormat" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAEAAAAAgACAAAAAA=</HashCode>
+      <FileName>InputFormat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APPOINTMENTSCHEDULER.BaseAppointment">
+    <Position X="2.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIQBAGAAEEAAAAAAAAAAAEQEABAAABAAAAAAAAAgA=</HashCode>
+      <FileName>Operations.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="APPOINTMENTSCHEDULER.MedicalAppointment">
+    <Position X="0.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Operations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APPOINTMENTSCHEDULER.AppointmentScheduler">
+    <Position X="11" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAYAAQQgAAAQFAAAAAAACAAAAAAAAGAAAAAAA=</HashCode>
+      <FileName>Operations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APPOINTMENTSCHEDULER.Patient" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Operations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APPOINTMENTSCHEDULER.Doctor">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Operations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APPOINTMENTSCHEDULER.Program" Collapsed="true">
+    <Position X="8.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APPOINTMENTSCHEDULER.UserAuthentication" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAEAAAAAAAAAIAQAAAAAABAAIABACAAAQAAAECAA=</HashCode>
+      <FileName>UserAuthentication.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APPOINTMENTSCHEDULER.DoctorOperation" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAQAAAEAAA=</HashCode>
+      <FileName>UserAuthentication.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APPOINTMENTSCHEDULER.PatientOperation" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAQAAAEAAA=</HashCode>
+      <FileName>UserAuthentication.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="APPOINTMENTSCHEDULER.IAppointment">
+    <Position X="0.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIQBAAAAEAAAAAAAAAAAAEQEABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Operations.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
